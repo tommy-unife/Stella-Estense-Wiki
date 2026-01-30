@@ -46,7 +46,7 @@ Durante la crescita giovanile si mette in evidenza per la capacità di interpret
 
 Concluso il percorso giovanile, entra a far parte della Stella Estense F.C., integrandosi nel progetto sportivo del club.
 
-Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]] viene impiegato come difensore laterale o centrocampista di rottura. Nel corso della stagione guadagna minuti grazie alla propria intensità e disponibilità al sacrificio, diventando una risorsa utile soprattutto nelle partite ad alto ritmo.
+Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) viene impiegato come difensore laterale o centrocampista di rottura. Nel corso della stagione guadagna minuti grazie alla propria intensità e disponibilità al sacrificio, diventando una risorsa utile soprattutto nelle partite ad alto ritmo.
 
 ---
 
