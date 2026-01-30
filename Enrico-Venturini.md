@@ -1,7 +1,7 @@
 ## Enrico Venturini
 
 **Enrico Venturini** è un dirigente sportivo italiano, attivo nel movimento di promozione sportiva dilettantistica nella provincia di Ferrara.  
-È noto soprattutto per il suo ruolo come presidente del Comitato provinciale del Centro Sportivo Italiano (CSI) di Ferrara e per il suo coinvolgimento nello sviluppo del progetto della [[Superlega Calcio Ferrara]], campionato amatoriale che unisce le discipline del calcio dilettantistico nel territorio ferrarese.
+È noto soprattutto per il suo ruolo come presidente del Comitato provinciale del Centro Sportivo Italiano (CSI) di Ferrara e per il suo coinvolgimento nello sviluppo del progetto della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md), campionato amatoriale che unisce le discipline del calcio dilettantistico nel territorio ferrarese.
 
 ---
 
