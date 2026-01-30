@@ -1,6 +1,6 @@
 ## Nathan Brocart
 
-**Nathan Brocart** (Bonheiden, 21 ottobre 2005) è un calciatore belga, difensore della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.  
+**Nathan Brocart** (Bonheiden, 21 ottobre 2005) è un calciatore belga, difensore della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
 Rappresenta una delle presenze internazionali della rosa e si distingue per struttura fisica, potenza nei duelli e affidabilità nel reparto arretrato.
 
 ---
@@ -17,7 +17,7 @@ Rappresenta una delle presenze internazionali della rosa e si distingue per stru
 | **Ruolo** |
 | Difensore |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 195 cm |
 | **Peso** |
