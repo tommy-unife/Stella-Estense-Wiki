@@ -1,6 +1,6 @@
 ## Coppa Cempion Lig
 
-La **Coppa Cempion Lig** è una competizione a eliminazione diretta organizzata all’interno del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]].  
+La **Coppa Cempion Lig** è una competizione a eliminazione diretta organizzata all’interno del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).  
 Il torneo affianca il campionato regolare e rappresenta un’ulteriore opportunità competitiva per le squadre partecipanti, culminando con l’accesso agli eventi conclusivi disputati allo Stadio Paolo Mazza di Ferrara.
 
 ---
