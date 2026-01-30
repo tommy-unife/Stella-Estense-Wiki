@@ -39,7 +39,7 @@ Brocart muove i primi passi calcistici in Belgio, dove acquisisce basi atletiche
 
 ### Stella Estense
 Approda alla Stella Estense F.C., entrando a far parte del progetto sportivo del club ferrarese.
-Nel [[campionato di Calcio a 7]] della [[Superlega Calcio Ferrara]], viene impiegato come difensore centrale o laterale, con compiti di marcatura e copertura. La sua presenza internazionale arricchisce la rosa, portando esperienza, fisicità e mentalità competitiva nel reparto difensivo.
+Nel [[campionato di Calcio a 7]] della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md), viene impiegato come difensore centrale o laterale, con compiti di marcatura e copertura. La sua presenza internazionale arricchisce la rosa, portando esperienza, fisicità e mentalità competitiva nel reparto difensivo.
 
 ---
 
