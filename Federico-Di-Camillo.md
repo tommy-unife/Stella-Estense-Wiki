@@ -44,7 +44,7 @@ Nel vivaio viene impiegato come difensore centrale ed esterno, sviluppando senso
 
 Conclusa l’esperienza giovanile, entra nella rosa della Stella Estense F.C., aderendo al progetto sportivo del club ferrarese.
 
-Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]] viene utilizzato come difensore, con compiti di marcatura e protezione della linea. Nel corso della stagione guadagna spazio grazie alla rapidità e alla capacità di leggere le situazioni difensive, risultando utile soprattutto contro avversari rapidi e tecnici.
+Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) viene utilizzato come difensore, con compiti di marcatura e protezione della linea. Nel corso della stagione guadagna spazio grazie alla rapidità e alla capacità di leggere le situazioni difensive, risultando utile soprattutto contro avversari rapidi e tecnici.
 
 ---
 
