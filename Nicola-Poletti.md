@@ -39,7 +39,7 @@ Successivamente milita nel Frutteti, maturando esperienza sia in ruoli offensivi
 ### Stella Estense
 Nel 2025 è tra i fondatori della Stella Estense F.C., insieme a [[Tommaso Curti]] e [[Francesco Scaramelli]].
 All’interno del progetto ricopre un doppio ruolo: calciatore e direttore sportivo.
-Nel [[campionato di Calcio a 7]] della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) viene utilizzato come attaccante, per sfruttarne fisicità e presenza in area e portiere, in situazioni di emergenza o rotazione.
+Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) viene utilizzato come attaccante, per sfruttarne fisicità e presenza in area e portiere, in situazioni di emergenza o rotazione.
 Come dirigente segue la costruzione della rosa, i rapporti sportivi con la lega e l’organizzazione tecnica della squadra.
 
 ---
