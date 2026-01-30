@@ -1,7 +1,6 @@
 ## Andrea Campagnoli
 
-**Andrea Campagnoli** (Ferrara, 30 dicembre 2006) è un calciatore italiano, impiegabile come centrocampista o difensore, in forza alla [Stella Estense Football Club](Stella-Estense-Football-Club.md)
-, società calcistica amatoriale con sede a Ferrara.
+**Andrea Campagnoli** (Ferrara, 30 dicembre 2006) è un calciatore italiano, impiegabile come centrocampista o difensore, in forza alla [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.
 
 Giocatore duttile e affidabile, si distingue per intelligenza tattica, ordine in campo e capacità di adattarsi a più ruoli, risultando una pedina importante nell’equilibrio della squadra.
 
