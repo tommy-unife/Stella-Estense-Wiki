@@ -82,6 +82,7 @@ Con l’obiettivo di creare una realtà riconoscibile dentro e fuori dal campo.
 - Instagram: https://www.instagram.com/stella.estense  
 - Sito ufficiale Superlega: https://superlegacalcioferrara.finalscore.it
 - Instagram Superlega: https://www.instagram.com/superlegacalcio_ferrara
+
 ---
 
 > *"Dal castello al cielo, passione ed appartenenza per riveder le Stelle."*
