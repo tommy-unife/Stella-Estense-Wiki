@@ -38,7 +38,7 @@ Scaramelli si forma calcisticamente nel CUS Ferrara, dove svolge il percorso di 
 
 Successivamente veste la maglia del Dribbling, società con cui consolida l’esperienza nel ruolo, affinando tecnica, posizionamento e gestione della porta.
 
-Con l’approdo alla Stella Estense F.C. diventa il portiere titolare del progetto, distinguendosi per reattività e capacità di guidare la linea difensiva. Nel [[Campionato di Calcio a 7]] della [[Superlega Calcio Ferrara]] viene apprezzato per interventi decisivi, sicurezza nelle uscite e comunicazione costante con i compagni.
+Con l’approdo alla Stella Estense F.C. diventa il portiere titolare del progetto, distinguendosi per reattività e capacità di guidare la linea difensiva. Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]] viene apprezzato per interventi decisivi, sicurezza nelle uscite e comunicazione costante con i compagni.
 
 ### Attività dirigenziale
 
