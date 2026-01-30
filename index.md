@@ -23,11 +23,11 @@ La Stella Estense partecipa al campionato di **Calcio a 7 della Superlega Calcio
 ## ⚽ La Società
 
 - [Stella Estense Football Club](Stella-Estense-Football-Club.md)
-- [Francesco Scaramelli]
-- [[Tommaso Curti]]
+- [Francesco Scaramelli](Francesco-Scaramelli.md)
+- [Tommaso Curti](Tommaso-Curti.md)
 - [Nicola Poletti](Nicola-Poletti.md)
-- [[Emiliano Morelli]]
-- [[ErbolarioVario]]
+- [Emiliano Morelli](Emiliano-Morelli.md)
+- [ErbolarioVario](ErbolarioVario.md)
 
 ---
 
@@ -38,34 +38,34 @@ Scopri i giocatori che compongono la Stella Estense:
 - [Andrea Campagnoli](Andrea-Campagnoli.md)  
 - [Andrea Guberti](Andrea-Guberti.md)  
 - [Andrea Malaguti](Andrea-Malaguti.md)
-- [[Federico Carli]]
-- [[Federico Di Camillo]]
-- [[Filippo Marchiò]]
-- [[Francesco Scaramelli]]
-- [[Giacomo Serafini]]
-- [[Luca Resca]]
-- [[Marco Gallucci]]
-- [[Nathan Brocart]]
-- [[Nicola Poletti]]
-- [[Riccardo Bergonzoni]]
-- [[Riccardo Vincenzi]]
-- [[Sergio Pasti]]
+- [Federico Carli](Federico-Carli.md)
+- [Federico Di Camillo](Federico-Di-Camillo.md)
+- [Filippo Marchiò](Filippo-Marchiò.md)
+- [Francesco Scaramelli](Francesco-Scaramelli.md)
+- [Giacomo Serafini](Giacomo-Serafini.md)
+- [Luca Resca](Luca-Resca.md)
+- [Marco Gallucci](Marco-Gallucci.md)
+- [Nathan Brocart](Nathan-Brocart.md)
+- [Nicola Poletti](Nicola-Poletti.md)
+- [Riccardo Bergonzoni](Riccardo-Bergonzoni.md)
+- [Riccardo Vincenzi](Riccardo-Vincenzi.md)
+- [Sergio Pasti](Sergio-Pasti.md)
 
 ---
 
 ## 🏆 Competizioni
 
-- [[Superlega Calcio Ferrara]], presidente [[Enrico Venturini]]
-- [[Campionato di Calcio a 7]]
-- [[Coppa Cempion Lig]]
+- [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md), presidente [Enrico Venturini](Enrico-Venturini.md)
+- [Campionato di Calcio a 7](Campionato-Calcio-a-7.md)
+- [Coppa Cempion Lig](Coppa-Cempion-Lig)
 
 ---
 
 ## 🏟 Impianti Sportivi
 
-- [[Campo Comunale Fulgor]]
-- [[Centro Sportivo Arginone]]
-- [[Centro Sportivo G.B. Fabbri]]
+- [Campo Comunale Fulgor](Campo-Comunale-Fulgor.md)
+- [Centro Sportivo Arginone](Centro-Sportivo-Arginone.md)
+- [Centro Sportivo G.B. Fabbri](Centro-Sportivo-G.B.-Fabbri.md)
 
 ---
 
