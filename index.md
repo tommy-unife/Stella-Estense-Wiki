@@ -1,3 +1,10 @@
+---
+
+layout: default
+title: index.md
+
+---
+
 # ⭐ Stella Estense Football Club Official Wiki
 
 ---
