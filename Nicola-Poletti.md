@@ -1,4 +1,4 @@
-**Nicola Poletti** (Ferrara, 19 giugno 2006) è un calciatore e dirigente sportivo italiano, attaccante o portiere della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.  
+**Nicola Poletti** (Ferrara, 19 giugno 2006) è un calciatore e dirigente sportivo italiano, attaccante o portiere della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
 Ricopre anche il ruolo di direttore sportivo, contribuendo alla costruzione e gestione della rosa. Giocatore polivalente, si distingue per fisicità, determinazione e mentalità competitiva.
 
 ---
@@ -15,7 +15,7 @@ Ricopre anche il ruolo di direttore sportivo, contribuendo alla costruzione e ge
 | **Ruolo** |
 | Attaccante |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md)|
 | **Altezza** |
 | 175 cm |
 | **Peso** |
