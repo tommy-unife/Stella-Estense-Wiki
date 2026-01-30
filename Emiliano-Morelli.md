@@ -1,6 +1,6 @@
 ## Emiliano Morelli
 
-**Emiliano Morelli** (Ferrara, 4 luglio 2006) è un allenatore e calciatore italiano, attuale tecnico della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.
+**Emiliano Morelli** (Ferrara, 4 luglio 2006) è un allenatore e calciatore italiano, attuale tecnico della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.
 
 Figura centrale del progetto sportivo, ricopre il doppio ruolo di allenatore-giocatore, coniugando leadership, competenze tattiche ed esperienza in campo.
 
