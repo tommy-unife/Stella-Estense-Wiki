@@ -1,3 +1,5 @@
+## Nicola Poletti
+
 **Nicola Poletti** (Ferrara, 19 giugno 2006) è un calciatore e dirigente sportivo italiano, attaccante o portiere della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
 Ricopre anche il ruolo di direttore sportivo, contribuendo alla costruzione e gestione della rosa. Giocatore polivalente, si distingue per fisicità, determinazione e mentalità competitiva.
 
@@ -37,7 +39,7 @@ Poletti si forma calcisticamente nel CUS Ferrara, dove acquisisce le basi tecnic
 Successivamente milita nel Frutteti, maturando esperienza sia in ruoli offensivi sia difensivi, ampliando così la propria versatilità. Durante la crescita viene apprezzato per spirito di sacrificio e presenza atletica.
 
 ### Stella Estense
-Nel 2025 è tra i fondatori della Stella Estense F.C., insieme a [[Tommaso Curti]] e [[Francesco Scaramelli]].
+Nel 2025 è tra i fondatori della Stella Estense F.C., insieme a [Tommaso Curti](Tommaso-Curti.md) e [Francesco Scaramelli](Francesco-Scaramelli.md).
 All’interno del progetto ricopre un doppio ruolo: calciatore e direttore sportivo.
 Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) viene utilizzato come attaccante, per sfruttarne fisicità e presenza in area e portiere, in situazioni di emergenza o rotazione.
 Come dirigente segue la costruzione della rosa, i rapporti sportivi con la lega e l’organizzazione tecnica della squadra.
