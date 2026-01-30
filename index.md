@@ -25,7 +25,7 @@ La Stella Estense partecipa al campionato di **Calcio a 7 della Superlega Calcio
 - [Stella Estense Football Club](Stella-Estense-Football-Club.md)
 - [Francesco Scaramelli]
 - [[Tommaso Curti]]
-- [[Nicola Poletti]]
+- [Nicola Poletti](Nicola-Poletti.md)
 - [[Emiliano Morelli]]
 - [[ErbolarioVario]]
 
