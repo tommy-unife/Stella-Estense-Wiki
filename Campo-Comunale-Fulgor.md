@@ -21,7 +21,7 @@ Il Campo Fulgor comprende un campo di calcio dalle dimensioni regolari di 105 ×
 
 Oltre alle partite amatoriali, il Campo Fulgor ospita attività ricreative e iniziative sportive, tornei e campi estivi organizzati dall’A.S.D. Ludovico, con un’attenzione particolare alla promozione della pratica sportiva nella comunità ferrarese.
 
-L’impianto ospita inoltre le partite di Serie A e Serie B del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]].
+L’impianto ospita inoltre le partite di Serie A e Serie B del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
 
 ---
 
