@@ -1,4 +1,4 @@
-**Francesco Scaramelli** (Ferrara, 12 gennaio 2006) è un calciatore e dirigente sportivo italiano, portiere e presidente della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.
+**Francesco Scaramelli** (Ferrara, 12 gennaio 2006) è un calciatore e dirigente sportivo italiano, portiere e presidente della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.
 
 Figura centrale del progetto Stella Estense, unisce l’attività agonistica alla gestione societaria, distinguendosi per leadership, carisma e capacità organizzative.
 
@@ -16,7 +16,7 @@ Figura centrale del progetto Stella Estense, unisce l’attività agonistica all
 | **Ruolo** |
 | Portiere |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 178 cm |
 | **Peso** |
