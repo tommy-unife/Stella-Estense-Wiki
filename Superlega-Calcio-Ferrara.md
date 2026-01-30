@@ -37,7 +37,7 @@ La Superlega Calcio Ferrara organizza diverse competizioni sportive:
 
 - Campionato Dilettanti (ex Amatori)  
 - Campionato Over 35  
-- [[Campionato di Calcio a 7]]  
+- [Campionato di Calcio a 7](Campionato-Calcio-a-7.md)  
 - Campionato di Calcio a 5 maschile  
 - Campionato provinciale di Calcio a 5 femminile  
 
