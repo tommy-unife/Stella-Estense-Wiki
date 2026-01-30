@@ -32,7 +32,7 @@ Il ripescaggio delle sei migliori squadre sconfitte viene stabilito secondo i se
 
 1. Los Tiburones  
 2. Polisportiva Francolino  
-3. [[Stella Estense F.C.]]  
+3. [Stella Estense Football Club](Stella-Estense-Football-Club.md)  
 4. Polisportiva Coronella  
 5. Micky Mouse  
 6. F.C. Rusteze  
