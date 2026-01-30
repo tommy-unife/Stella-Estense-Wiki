@@ -1,6 +1,6 @@
 ## Campionato di Calcio a 7
 
-Il **Campionato di Calcio a 7** della [[Superlega Calcio Ferrara]] è una competizione calcistica amatoriale organizzata dalla Superlega Calcio Ferrara, che coinvolge squadre della città di Ferrara e della provincia.  
+Il **Campionato di Calcio a 7** della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) è una competizione calcistica amatoriale organizzata dalla Superlega Calcio Ferrara, che coinvolge squadre della città di Ferrara e della provincia.  
 Nato come progetto giovane all’interno della Superlega, il torneo ha conosciuto una crescita rapida negli ultimi anni, diventando una delle realtà più dinamiche del movimento calcistico amatoriale ferrarese.
 
 Il calcio a 7 è stato introdotto circa tre stagioni fa per offrire un’alternativa più flessibile al calcio a 11 e al calcio a 5. Partito con poche società, il campionato ha registrato un incremento costante, coinvolgendo numerose squadre suddivise in più categorie.
