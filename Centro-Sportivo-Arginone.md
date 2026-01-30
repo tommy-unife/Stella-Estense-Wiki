@@ -17,7 +17,7 @@ La struttura è facilmente raggiungibile dalla zona sud di Ferrara ed è situata
 ---
 
 ## Attività e utilizzo
-Il Campo Arginone ospita partite di club locali, sessioni di allenamento e iniziative legate allo sport giovanile e dilettantistico. Ospita le partite  di Serie A e B del [[campionato di calcio a 7]] della [[Superlega Calcio Ferrara]].
+Il Campo Arginone ospita partite di club locali, sessioni di allenamento e iniziative legate allo sport giovanile e dilettantistico. Ospita le partite  di Serie A e B del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]].
 In passato la struttura è stata utilizzata come sede di attività ludico-motorie e centri estivi organizzati da UISP e altri enti locali, comprendendo discipline come calcio, danza e arti marziali per ragazzi.
 
 Nell’area del campo è attivo anche un centro di paintball, disponibile su prenotazione, che sfrutta gli spazi adiacenti alla struttura sportiva per attività ricreative e competizioni di paintball.
