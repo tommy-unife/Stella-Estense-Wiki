@@ -1,6 +1,6 @@
 ## Andrea Guberti
 
-**Andrea Guberti** (Ferrara, 24 aprile 2007) è un calciatore italiano, impiegabile come difensore o centrocampista, in forza alla [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.
+**Andrea Guberti** (Ferrara, 24 aprile 2007) è un calciatore italiano, impiegabile come difensore o centrocampista, in forza alla [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.
 
 Giocatore giovane e dinamico, rappresenta uno dei profili emergenti della rosa, distinguendosi per intensità, spirito combattivo e predisposizione al lavoro difensivo.
 
@@ -18,7 +18,7 @@ Giocatore giovane e dinamico, rappresenta uno dei profili emergenti della rosa, 
 | **Ruolo** |
 | Difensore |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 182 cm |
 | **Peso** |
