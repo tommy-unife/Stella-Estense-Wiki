@@ -19,7 +19,7 @@ Giocatore duttile e affidabile, si distingue per intelligenza tattica, ordine in
 | **Ruolo** |
 | Centrocampista |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 182 cm |
 | **Peso** |
