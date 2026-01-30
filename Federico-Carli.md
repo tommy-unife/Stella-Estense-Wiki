@@ -42,7 +42,7 @@ Carli si forma calcisticamente nel CUS Ferrara, dove svolge il percorso di base 
 
 Successivamente approda alla Stella Estense F.C., entrando a far parte del progetto sportivo del club ferrarese.
 
-Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]] diventa uno degli elementi di riferimento della mediana, occupandosi della gestione dei ritmi e del collegamento tra difesa e attacco. Nel corso della stagione viene spesso impiegato nei momenti chiave della partita per garantire equilibrio e pulizia di gioco.
+Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) diventa uno degli elementi di riferimento della mediana, occupandosi della gestione dei ritmi e del collegamento tra difesa e attacco. Nel corso della stagione viene spesso impiegato nei momenti chiave della partita per garantire equilibrio e pulizia di gioco.
 
 ---
 
