@@ -1,6 +1,6 @@
 ## Giacomo Serafini
 
-**Giacomo Serafini** (Pavullo nel Frignano, 27 novembre 2006) è un calciatore italiano, attaccante della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.
+**Giacomo Serafini** (Pavullo nel Frignano, 27 novembre 2006) è un calciatore italiano, attaccante della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.
 
 Attaccante tecnico e mobile, si distingue per capacità di inserimento, movimento senza palla e predisposizione al gol, risultando una risorsa importante nel reparto offensivo.
 
@@ -18,7 +18,7 @@ Attaccante tecnico e mobile, si distingue per capacità di inserimento, moviment
 | **Ruolo** |
 | Attaccante |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 182 cm |
 | **Peso** |
