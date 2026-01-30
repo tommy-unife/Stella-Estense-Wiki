@@ -63,7 +63,7 @@ Le vincenti si affrontano in uno spareggio finale per determinare la seconda pro
 - Polisportiva Francolino  
 - Pontegradella F.C.  
 - Realdamar  
-- [[Stella Estense Football Club]]  
+- [Stella Estense Football Club](Stella-Estense-Football-Club.md)  
 - Circolo Buontemponi  
 
 ---
