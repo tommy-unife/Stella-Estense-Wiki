@@ -47,7 +47,7 @@ Successivamente passa alla Portuense Etrusca, società con cui completa la cresc
 
 Dopo l’esperienza giovanile, Campagnoli approda alla Stella Estense Football Club, entrando a far parte del progetto sportivo del club.
 
-Con la squadra ferrarese disputa il [[Campionato di Calcio a 7]] della [[Superlega Calcio Ferrara]], trovando spazio in più ruoli: centrocampista centrale, esterno basso e difensore.
+Con la squadra ferrarese disputa il [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]], trovando spazio in più ruoli: centrocampista centrale, esterno basso e difensore.
 
 Nel corso della stagione si afferma per la capacità di leggere le situazioni di gioco, offrendo equilibrio tra fase difensiva e costruzione dell’azione. È spesso utilizzato nei momenti chiave della gara per gestire i ritmi e garantire solidità.
 
