@@ -1,7 +1,6 @@
 ## Federico Carli
 
-**Federico Carli** (Ferrara, 26 maggio 2006) è un calciatore italiano, centrocampista della [Stella Estense Football Club](Stella-Estense-Football-Club.md)
-, società calcistica amatoriale con sede a Ferrara.
+**Federico Carli** (Ferrara, 26 maggio 2006) è un calciatore italiano, centrocampista della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.
 
 Elemento stabile della mediana, si distingue per equilibrio, affidabilità in fase di possesso e capacità di svolgere entrambe le fasi di gioco con ordine e continuità.
 
