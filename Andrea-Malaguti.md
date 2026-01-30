@@ -45,7 +45,7 @@ Nel settore giovanile si mette in evidenza per la capacità di leggere il gioco 
 
 ### Stella Estense
 
-Approda alla Stella Estense F.C. entrando nel progetto sportivo del club ferrarese. Nel [[Campionato di Calcio a 7]] della [[Superlega Calcio Ferrara]] viene impiegato come difensore con compiti di impostazione, spesso coinvolto nella prima costruzione dell’azione.
+Approda alla Stella Estense F.C. entrando nel progetto sportivo del club ferrarese. Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]] viene impiegato come difensore con compiti di impostazione, spesso coinvolto nella prima costruzione dell’azione.
 
 Nel corso della stagione diventa una risorsa importante per la manovra, grazie alla capacità di superare la prima pressione avversaria e accompagnare l’azione offensiva.
 
