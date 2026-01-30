@@ -2,7 +2,7 @@
 
 La **Superlega Calcio Ferrara CSI e UISP** è un’organizzazione sportiva dilettantistica che gestisce campionati di calcio amatoriale nella provincia di Ferrara.
 
-Fondata nel 2019, la Superlega nasce da un’idea condivisa tra [[Enrico Venturini]], presidente del CSI di Ferrara, e Giancarlo Beltrami, responsabile UISP, con l’obiettivo di unire le principali realtà calcistiche provinciali. All’epoca esistevano due campionati molto simili, con numeri ridotti; la scelta fu quella di creare un’unica competizione più solida e strutturata, evitando dispersioni e valorizzando al meglio le società partecipanti.
+Fondata nel 2019, la Superlega nasce da un’idea condivisa tra [Enrico Venturini](Enrico-Venturini.md), presidente del CSI di Ferrara, e Giancarlo Beltrami, responsabile UISP, con l’obiettivo di unire le principali realtà calcistiche provinciali. All’epoca esistevano due campionati molto simili, con numeri ridotti; la scelta fu quella di creare un’unica competizione più solida e strutturata, evitando dispersioni e valorizzando al meglio le società partecipanti.
 
 L’attuale stagione rappresenta il sesto anno sportivo della storia della Superlega.
 
