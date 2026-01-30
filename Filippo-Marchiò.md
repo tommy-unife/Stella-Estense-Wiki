@@ -1,6 +1,6 @@
 ## Filippo Marchiò
 
-**Filippo Marchiò** (Roma, 19 gennaio 2007) è un calciatore italiano, centrocampista della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.
+**Filippo Marchiò** (Roma, 19 gennaio 2007) è un calciatore italiano, centrocampista della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.
 
 Centrocampista tecnico e ordinato, si distingue per visione di gioco e capacità di gestire il possesso, risultando un elemento utile nella costruzione della manovra offensiva.
 
@@ -18,7 +18,7 @@ Centrocampista tecnico e ordinato, si distingue per visione di gioco e capacità
 | **Ruolo** |
 | Centrocampista |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 182 cm |
 | **Peso** |
