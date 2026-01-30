@@ -1,6 +1,6 @@
 ## Luca Resca
 
-**Luca Resca** (Ferrara, 10 luglio 2006) è un calciatore italiano, difensore della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.  
+**Luca Resca** (Ferrara, 10 luglio 2006) è un calciatore italiano, difensore della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
 Elemento solido del reparto arretrato, si distingue per affidabilità, attenzione nella marcatura e continuità di rendimento, risultando una presenza costante nella linea difensiva della squadra.
 
 ---
@@ -17,7 +17,7 @@ Elemento solido del reparto arretrato, si distingue per affidabilità, attenzion
 | **Ruolo** |
 | Difensore |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+|[Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 172 cm |
 | **Peso** |
