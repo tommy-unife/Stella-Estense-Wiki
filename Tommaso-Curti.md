@@ -37,7 +37,7 @@ All’interno della società Curti ricopre il ruolo di Vicepresidente e responsa
 - rapporti istituzionali;
 - contatti con sponsor e partner;
 - comunicazione con il tifo organizzato;
-- relazioni con il Comune di Ferrara, la [[Superlega Calcio Ferrara]] e altre società sportive.
+- relazioni con il Comune di Ferrara, la [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) e altre società sportive.
 
 La Stella Estense viene concepita non solo come squadra, ma come progetto di aggregazione giovanile e culturale, con attenzione alla comunicazione, alla partecipazione del pubblico e alle collaborazioni esterne.
 
