@@ -1,6 +1,6 @@
 ## Sergio Pasti
 
-**Sergio Pasti** (Bentivoglio, 19 aprile 2006) è un calciatore italiano, difensore della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.  
+**Sergio Pasti** (Bentivoglio, 19 aprile 2006) è un calciatore italiano, difensore della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
 Si distingue per grinta, tenacia e generosità in fase difensiva nel [[Campionato di Calcio a 7]] della [[Superlega Calcio Ferrara]].
 
 ---
@@ -17,7 +17,7 @@ Si distingue per grinta, tenacia e generosità in fase difensiva nel [[Campionat
 | **Ruolo** |
 | Difensore |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 175 cm |
 | **Peso** |
