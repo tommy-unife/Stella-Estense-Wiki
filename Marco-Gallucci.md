@@ -1,7 +1,7 @@
 ## Marco Gallucci
 
 **Marco Gallucci** (Roma, 2 marzo 2006) è un calciatore italiano, difensore della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
-Si distingue per fisicità, rapidità e aggressività positiva, risultando efficace nei duelli e nel calcio ad alta intensità tipico del [[Campionato di Calcio a 7]] della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
+Si distingue per fisicità, rapidità e aggressività positiva, risultando efficace nei duelli e nel calcio ad alta intensità tipico del Campionato di Calcio a 7 della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
 
 ---
 
@@ -38,7 +38,7 @@ Si avvicina al calcio fin da bambino, mostrando predisposizione per il ruolo dif
 Gallucci si forma nei settori giovanili del CUS Ferrara, dove sviluppa le basi tecniche e tattiche del ruolo di difensore. Successivamente veste anche la maglia del Dribbling, maturando esperienza in contesti differenti e affinando il proprio stile di gioco improntato sull’intensità. Durante la crescita si mette in evidenza per grinta, aggressività controllata e capacità di adattarsi a più ruoli difensivi.
 ### Stella Estense
 Approda poi alla Stella Estense F.C., entrando nel progetto sportivo del club ferrarese.
-Nel campionato di Calcio a 7 della Superlega Calcio Ferrara viene utilizzato prevalentemente nel reparto arretrato, con compiti di marcatura e copertura. La sua fisicità e la rapidità negli interventi lo rendono particolarmente utile contro squadre dal gioco diretto e verticale, diventando una risorsa importante nella struttura difensiva della squadra.
+Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della Superlega Calcio Ferrara viene utilizzato prevalentemente nel reparto arretrato, con compiti di marcatura e copertura. La sua fisicità e la rapidità negli interventi lo rendono particolarmente utile contro squadre dal gioco diretto e verticale, diventando una risorsa importante nella struttura difensiva della squadra.
 
 ---
 
