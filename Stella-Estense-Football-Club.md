@@ -1,3 +1,5 @@
+## Stella Estense Football Club
+
 La **Stella Estense Football Club**, meglio conosciuta come **Stella Estense F.C.** o più semplicemente come **Stella Estense**, è una società calcistica amatoriale con sede nella città di Ferrara, in Emilia-Romagna.
 
 Fondato il 1 gennaio 2025 da [Francesco Scaramelli](Francesco-Scaramelli.md), [Tommaso Curti](Tommaso-Curti.md) e [Nicola Poletti](Nicola-Poletti.md), il club attualmente milita nella seconda divisione della sezione [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
