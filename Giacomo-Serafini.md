@@ -46,7 +46,7 @@ Successivamente passa al Frutteti, società nella quale amplia il proprio bagagl
 
 Approda alla Stella Estense F.C. entrando nel progetto sportivo del club ferrarese.
 
-Nel [[Campionato di Calcio a 7]] della [[Superlega Calcio Ferrara]] viene impiegato come attaccante, spesso con compiti di allargamento del gioco e inserimento centrale. Nel corso della stagione diventa una risorsa preziosa per la fase offensiva grazie alla rapidità e alla capacità di smarcarsi, contribuendo sia in zona gol sia nella costruzione delle azioni.
+Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]] viene impiegato come attaccante, spesso con compiti di allargamento del gioco e inserimento centrale. Nel corso della stagione diventa una risorsa preziosa per la fase offensiva grazie alla rapidità e alla capacità di smarcarsi, contribuendo sia in zona gol sia nella costruzione delle azioni.
 
 ---
 
