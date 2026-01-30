@@ -1,7 +1,7 @@
 ## Riccardo Vincenzi
 
 **Riccardo Vincenzi** (Piacenza, 8 marzo 2006) è un calciatore italiano, attaccante della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
-Si distingue per dribbling, velocità e pericolosità negli spazi aperti nel campionato di Calcio a 7 della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
+Si distingue per dribbling, velocità e pericolosità negli spazi aperti nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
 
 ---
 
