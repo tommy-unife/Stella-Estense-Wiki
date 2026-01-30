@@ -1,6 +1,6 @@
 ## Marco Gallucci
 
-**Marco Gallucci** (Roma, 2 marzo 2006) è un calciatore italiano, difensore della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.  
+**Marco Gallucci** (Roma, 2 marzo 2006) è un calciatore italiano, difensore della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
 Si distingue per fisicità, rapidità e aggressività positiva, risultando efficace nei duelli e nel calcio ad alta intensità tipico del [[Campionato di Calcio a 7]] della [[Superlega Calcio Ferrara]].
 
 ---
@@ -17,7 +17,7 @@ Si distingue per fisicità, rapidità e aggressività positiva, risultando effic
 | **Ruolo** |
 | Difensore |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+|[Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 172 cm |
 | **Peso** |
