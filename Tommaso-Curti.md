@@ -1,4 +1,4 @@
-**Tommaso Curti** (Trecenta, 1º febbraio 2006) è un dirigente sportivo, ex calciatore, artista e autore italiano, attuale Vicepresidente della [Stella Estense Football Club](Stella-Estense-Football-Club.md)
+**Tommaso Curti** (Trecenta, 1º febbraio 2006) è un dirigente sportivo, ex calciatore, artista e autore italiano, attuale Vicepresidente della [Stella Estense Football Club](Stella-Estense-Football-Club.md).
 
 Parallelamente all’attività sportiva porta avanti un percorso artistico con lo pseudonimo di **Red destRouge**, pubblicando brani musicali dal 2018.
 
