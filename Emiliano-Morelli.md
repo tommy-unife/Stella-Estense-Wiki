@@ -31,7 +31,7 @@ Con l’approdo alla Stella Estense F.C. entra a far parte del progetto sportivo
 
 All’interno della Stella Estense, Morelli assume il ruolo di allenatore principale, diventando il riferimento per la gestione tecnica del gruppo. Il suo lavoro si concentra su organizzazione tattica, disciplina di squadra, gestione delle rotazioni ed identità di gioco.
 
-Sotto la sua guida la Stella Estense punta a un calcio ordinato, intenso e partecipativo, adattato alle caratteristiche del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]].
+Sotto la sua guida la Stella Estense punta a un calcio ordinato, intenso e partecipativo, adattato alle caratteristiche del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
 
 ---
 
