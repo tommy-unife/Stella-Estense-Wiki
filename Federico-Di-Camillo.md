@@ -1,6 +1,6 @@
 ## Federico Di Camillo
 
-**Federico Di Camillo** (Ferrara, 16 novembre 2007) è un calciatore italiano, difensore della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.
+**Federico Di Camillo** (Ferrara, 16 novembre 2007) è un calciatore italiano, difensore della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.
 
 Tra i profili più giovani della rosa, si distingue per velocità, attenzione in marcatura e buon senso della posizione, caratteristiche che ne fanno un elemento affidabile nel reparto arretrato.
 
@@ -18,7 +18,7 @@ Tra i profili più giovani della rosa, si distingue per velocità, attenzione in
 | **Ruolo** |
 | Difensore |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 178 cm |
 | **Peso** |
