@@ -32,7 +32,7 @@ Nel corso della sua attività si è esibito in diversi contesti riconosciuti, tr
 
 Pur non avendo ancora pubblicato produzioni ufficiali, ErbolarioVario è attivo nella produzione musicale live, utilizzando sintetizzatori analogici e campionatori. È prevista l’uscita di un primo singolo in collaborazione con due artisti ferraresi, ancora anonimi, accompagnato da un remix realizzato dallo stesso Lorenzetti. Collabora saltuariamente con il collettivo BAU di Ferrara, con cui condivide una visione della musica elettronica orientata alla sperimentazione e alla ricerca sonora.
 
-È inoltre attivo come event manager della [Stella Estense Football Club](Stella-Estense-Football-Club.md), squadra del [[campionato di calcio a 7]] della [[Superlega Calcio Ferrara]], di cui fa parte anche a livello dirigenziale, affiancando l’attività musicale a quella sportiva. È noto come tifoso della squadra e promotore di iniziative che uniscono musica, aggregazione e identità territoriale.
+È inoltre attivo come event manager della [Stella Estense Football Club](Stella-Estense-Football-Club.md), squadra del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]], di cui fa parte anche a livello dirigenziale, affiancando l’attività musicale a quella sportiva. È noto come tifoso della squadra e promotore di iniziative che uniscono musica, aggregazione e identità territoriale.
 
 ---
 
