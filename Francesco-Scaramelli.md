@@ -44,7 +44,7 @@ Con l’approdo alla Stella Estense F.C. diventa il portiere titolare del proget
 
 Parallelamente alla carriera sportiva, Scaramelli è tra i promotori della nascita della Stella Estense.
 
-Nel 2025, insieme a [[Tommaso Curti]] e [[Nicola Poletti]], fonda ufficialmente il club, assumendo il ruolo di presidente.
+Nel 2025, insieme a [Tommaso Curti](Tommaso-Curti.md) e [Nicola Poletti](Nicola-Poletti.md), fonda ufficialmente il club, assumendo il ruolo di presidente.
 
 Come dirigente si occupa in particolare di gestione societaria, organizzazione interna, rapporti con Superlega e istituzioni sportive, coordinamento tra staff e giocatori e sviluppo del progetto sportivo. La sua figura rappresenta il punto di equilibrio tra dimensione agonistica e struttura organizzativa.
 
