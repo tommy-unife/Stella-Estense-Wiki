@@ -16,7 +16,7 @@ La Stella Estense partecipa al campionato di **Calcio a 7 della Superlega Calcio
 ## ⚽ La Società
 
 - [Stella Estense Football Club](Stella-Estense-Football-Club.md)
-- [[Francesco Scaramelli]]
+- [Francesco Scaramelli]
 - [[Tommaso Curti]]
 - [[Nicola Poletti]]
 - [[Emiliano Morelli]]
@@ -28,9 +28,9 @@ La Stella Estense partecipa al campionato di **Calcio a 7 della Superlega Calcio
 
 Scopri i giocatori che compongono la Stella Estense:
 
-- [[Andrea Campagnoli]]
-- [[Andrea Guberti]]
-- [[Andrea Malaguti]]
+- [Andrea Campagnoli](Andrea-Campagnoli.md)  
+- [Andrea Guberti](Andrea-Guberti.md)  
+- [Andrea Malaguti](Andrea-Malaguti.md)
 - [[Federico Carli]]
 - [[Federico Di Camillo]]
 - [[Filippo Marchiò]]
