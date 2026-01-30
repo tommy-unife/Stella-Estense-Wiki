@@ -1,6 +1,6 @@
 La **Stella Estense Football Club**, meglio conosciuta come **Stella Estense F.C.** o più semplicemente come **Stella Estense**, è una società calcistica amatoriale con sede nella città di Ferrara, in Emilia-Romagna.
 
-Fondato il 1 gennaio 2025 da [[Francesco Scaramelli]], [[Tommaso Curti]] e [[Nicola Poletti]], il club attualmente milita nella seconda divisione della sezione [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
+Fondato il 1 gennaio 2025 da [Francesco Scaramelli](Francesco-Scaramelli.md), [Tommaso Curti](Tommaso-Curti.md) e [Nicola Poletti](Nicola-Poletti.md), il club attualmente milita nella seconda divisione della sezione [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
 
 ---
 
@@ -17,7 +17,7 @@ L’iniziativa viene portata avanti da tre studenti diciannovenni, Scaramelli, C
 
 Nel corso della prima stagione il club ottiene una rapida crescita di visibilità, diventando una delle realtà più seguite del proprio campionato, grazie anche all’attività sui social network e alla presenza di tifosi provenienti da scuole e ambienti universitari cittadini. Partecipando al solo campionato di chiusura della stagione 2024-2025, la squadra termina al dodicesimo posto con 4 vittorie, 0 pareggi e 9 sconfitte.
 
-Con la formazione dei campionati A e B nella stagione 2025-2026, la Stella Estense milita nella cadetteria, concludendo il campionato di apertura al sesto posto. Perderà ai rigori nella sfida di coppa “[[Cempion Lig]]” contro i secondi classificati del campionato di Serie A, garantendosi comunque l’accesso alla fase successiva in qualità di terza migliore ripescata.
+Con la formazione dei campionati A e B nella stagione 2025-2026, la Stella Estense milita nella cadetteria, concludendo il campionato di apertura al sesto posto. Perderà ai rigori nella sfida di coppa “[Cempion Lig](Coppa-Cempion-Lig.md)” contro i secondi classificati del campionato di Serie A, garantendosi comunque l’accesso alla fase successiva in qualità di terza migliore ripescata.
 
 ---
 
@@ -25,27 +25,27 @@ Con la formazione dei campionati A e B nella stagione 2025-2026, la Stella Esten
 
 La dirigenza della Stella Estense è composta dal presidente e legale rappresentante Francesco Scaramelli, dal vicepresidente e addetto alle public relations Tommaso Curti e dal direttore sportivo Nicola Poletti.
 
-Lo staff è composto dall’allenatore [[Emiliano Morelli]], dal fotografo Federico Valieri e dall’event coordinator Giovanni “[[ErbolarioVario]]” Lorenzetti.
+Lo staff è composto dall’allenatore [Emiliano Morelli](Emiliano-Morelli.md), dal fotografo Federico Valieri e dall’event coordinator Giovanni “[ErbolarioVario](ErbolarioVario.md)” Lorenzetti.
 
 ### Rosa
 
 | Numero | Nome                 | Ruolo |
 |--------|----------------------|------|
-| 1      | [[Francesco Scaramelli]] | POR  |
-| 2      | [[Federico Di Camillo]]  | DIF  |
-| 3      | [[Andrea Guberti]]       | DIF  |
-| 4      | [[Andrea Malaguti]]      | DIF  |
-| 14     | [[Marco Gallucci]]       | DIF  |
-| 18     | [[Sergio Pasti]]         | DIF  |
-| 76     | [[Luca Resca]]           | DIF  |
-| 93     | [[Nathan Brocart]]       | DIF  |
-| 6      | [[Federico Carli]]       | CEN  |
-| 9      | [[Giacomo Serafini]]     | CEN  |
-| 21     | [[Filippo Marchiò]]      | CEN  |
-| 23     | [[Andrea Campagnoli]]    | CEN  |
-| 10     | [[Riccardo Vincenzi]]    | ATT  |
-| 11     | [[Nicola Poletti]]       | ATT  |
-| 70     | [[Riccardo Bergonzoni]]  | ATT  |
+| 1      | [Francesco Scaramelli](Francesco-Scaramelli.md) | POR  |
+| 2      | [Federico Di Camillo](Federico-Di-Camillo.md)  | DIF  |
+| 3      | [Andrea Guberti](Andrea-Guberti.md)       | DIF  |
+| 4      | [Andrea Malaguti](Andrea-Malaguti.md)      | DIF  |
+| 14     | [Marco Gallucci](Marco-Gallucci.md)       | DIF  |
+| 18     | [Sergio Pasti](Sergio-Pasti.md)         | DIF  |
+| 76     | [Luca Resca](Luca-Resca.md)           | DIF  |
+| 93     | [Nathan Brocart](Nathan-Brocart.md)       | DIF  |
+| 6      | [Federico Carli](Federico-Carli.md)       | CEN  |
+| 9      | [Giacomo Serafini](Giacomo-Serafini.md)     | CEN  |
+| 21     | [Filippo Marchiò](Filippo-Marchiò.md)      | CEN  |
+| 23     | [Andrea Campagnoli](Andrea-Campagnoli.md)    | CEN  |
+| 10     | [Riccardo Vincenzi](Riccardo-Vincenzi.md)    | ATT  |
+| 11     | [Nicola Poletti](Nicola-Poletti.md)       | ATT  |
+| 70     | [Riccardo Bergonzoni](Riccardo-Bergonzoni.md)  | ATT  |
 
 ---
 
