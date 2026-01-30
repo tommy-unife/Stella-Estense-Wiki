@@ -1,7 +1,7 @@
 ## Riccardo Bergonzoni
 
 **Riccardo Bergonzoni** (Bologna, 6 agosto 2006) è un calciatore italiano, attaccante della [Stella Estense Football Club](Stella-Estense-Football-Club.md), società calcistica amatoriale con sede a Ferrara.  
-Si distingue per potenza fisica, capacità di proteggere il pallone e presenza offensiva nel [[campionato di Calcio a 7]] della [[Superlega Calcio Ferrara]].
+Si distingue per potenza fisica, capacità di proteggere il pallone e presenza offensiva nel [[campionato di Calcio a 7]] della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
 
 ---
 
