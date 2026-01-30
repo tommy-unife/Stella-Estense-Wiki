@@ -71,10 +71,10 @@ Le vincenti si affrontano in uno spareggio finale per determinare la seconda pro
 ## Impianti di gioco
 
 Le partite si disputano su diversi impianti sportivi del territorio:  
-- [[Campo Comunale Fulgor]] – Piazzale San Giovanni 33/A, Ferrara  
-- [[Centro Sportivo G.B. Fabbri]] – Via Copparo 142, Ferrara  
+- [Campo Comunale Fulgor](Campo-Comunale-Fulgor.md) – Piazzale San Giovanni 33/A, Ferrara  
+- [Centro Sportivo G.B. Fabbri](Centro-Sportivo-G.B.-Fabbri.md) – Via Copparo 142, Ferrara  
 - Campo di Voghenza – Via Ludovico Ariosto, Voghenza  
-- [[Centro Sportivo Arginone]] – Via Domenico Rambaldi 56, Ferrara  
+- [Centro Sportivo Arginone](Centro-Sportivo-Arginone.md) – Via Domenico Rambaldi 56, Ferrara  
 
 Questi impianti rappresentano i principali punti di riferimento per lo svolgimento delle gare e delle attività della Superlega.
 
