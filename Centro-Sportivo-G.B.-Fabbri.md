@@ -19,7 +19,7 @@ L’impianto comprende due campi in erba naturale, due campi in erba sintetica, 
 ## Utilizzo sportivo
 
 Il Centro Sportivo G.B. Fabbri è utilizzato principalmente per allenamenti e partite delle squadre giovanili e dei settori inferiori di società calcistiche della zona ed attività sportive di club organizzati, inclusi eventi amatoriali e tornei locali. 
-L’impianto è anche sede di eventi sportivi e tornei, compresi quelli con finalità benefiche organizzati in collaborazione con enti locali come MSP Italia. Dal 2025 ospita le partite di Serie A e B del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [[Superlega Calcio Ferrara]].
+L’impianto è anche sede di eventi sportivi e tornei, compresi quelli con finalità benefiche organizzati in collaborazione con enti locali come MSP Italia. Dal 2025 ospita le partite di Serie A e B del [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md).
 
 ---
 
