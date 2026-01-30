@@ -29,8 +29,8 @@ La carriera da calciatore si conclude nel 2025, anno in cui decide di concentrar
 
 ## Stella Estense F.C.
 
-L’idea della Stella Estense nasce da Tommaso Curti e [[Francesco Scaramelli]] negli anni precedenti alla fondazione ufficiale.  
-Nel 2025 il club viene costituito formalmente insieme a [[Nicola Poletti]].
+L’idea della Stella Estense nasce da Tommaso Curti e [Francesco Scaramelli](Francesco-Scaramelli.md) negli anni precedenti alla fondazione ufficiale.  
+Nel 2025 il club viene costituito formalmente insieme a [Nicola Poletti](Nicola-Poletti.md).
 
 All’interno della società Curti ricopre il ruolo di Vicepresidente e responsabile delle public relations, occupandosi in particolare di:
 - gestione dell’immagine del club;
