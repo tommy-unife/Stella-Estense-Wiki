@@ -1,6 +1,7 @@
 ## Andrea Malaguti
 
-**Andrea Malaguti** (Ferrara, 20 maggio 2006) è un calciatore italiano, difensore della [[Stella Estense Football Club]], società calcistica amatoriale con sede a Ferrara.
+**Andrea Malaguti** (Ferrara, 20 maggio 2006) è un calciatore italiano, difensore della [Stella Estense Football Club](Stella-Estense-Football-Club.md)
+, società calcistica amatoriale con sede a Ferrara.
 
 Difensore moderno e tecnico, si distingue per agilità, velocità e capacità di partecipare alla costruzione del gioco, risultando efficace sia in fase difensiva sia nell’impostazione.
 
@@ -18,7 +19,7 @@ Difensore moderno e tecnico, si distingue per agilità, velocità e capacità di
 | **Ruolo** |
 | Difensore |
 | **Squadra** |
-| [[Stella Estense Football Club]] |
+| [Stella Estense Football Club](Stella-Estense-Football-Club.md) |
 | **Altezza** |
 | 170 cm |
 | **Peso** |
