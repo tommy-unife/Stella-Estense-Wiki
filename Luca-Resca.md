@@ -36,7 +36,7 @@ Nel vivaio viene impiegato sia come centrale sia come esterno basso, maturando e
 
 ### Stella Estense
 Approda successivamente alla Stella Estense F.C., entrando nel progetto sportivo del club ferrarese.
-Nel [[campionato di Calcio a 7]] della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) viene utilizzato come difensore, con compiti di marcatura, copertura e protezione della linea. Nel corso della stagione diventa una risorsa importante per la solidità difensiva della squadra, distinguendosi per intensità e continuità di prestazione.
+Nel [Campionato di Calcio a 7](Campionato-Calcio-a-7.md) della [Superlega Calcio Ferrara](Superlega-Calcio-Ferrara.md) viene utilizzato come difensore, con compiti di marcatura, copertura e protezione della linea. Nel corso della stagione diventa una risorsa importante per la solidità difensiva della squadra, distinguendosi per intensità e continuità di prestazione.
 
 ## Caratteristiche tecniche
 Resca è un difensore affidabile e concentrato, efficace nella marcatura e deciso nei contrasti. Continuo nel rendimento e disciplinato tatticamente, fa della semplicità e dell’efficacia i suoi principali punti di forza.
