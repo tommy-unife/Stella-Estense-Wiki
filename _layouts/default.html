@@ -56,9 +56,11 @@
 
 <div class="container">
 
-  <div class="sidebar">
+  <div class="sidebar" id="sidebar">
     <h2>📚 Wiki Stella Estense</h2>
 
+    <input type="text" id="searchInput" placeholder="Cerca nella Wiki..." onkeyup="filterSidebar()" style="width:90%;padding:6px;margin:10px 0;border-radius:6px;border:none;">
+    
     <a href="index.html">Home</a>
 
     <div class="section">⭐ Stella Estense</div>
@@ -106,6 +108,24 @@
   </div>
 
 </div>
+
+<script>
+function filterSidebar() {
+  var input = document.getElementById("searchInput");
+  var filter = input.value.toUpperCase();
+  var sidebar = document.getElementById("sidebar");
+  var links = sidebar.getElementsByTagName("a");
+
+  for (let i = 0; i < links.length; i++) {
+    let txt = links[i].textContent || links[i].innerText;
+    if (txt.toUpperCase().indexOf(filter) > -1) {
+      links[i].style.display = "";
+    } else {
+      links[i].style.display = "none";
+    }
+  }
+}
+</script>
 
 </body>
 </html>
