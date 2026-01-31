@@ -96,4 +96,4 @@ Con l’obiettivo di creare una realtà riconoscibile dentro e fuori dal campo.
 
 ---
 
-📚 Wiki realizzata nell’ambito di progetto universitario, insegnamento Informatica per la produzione mediale - prof. Giorgio Poletti.
+📚 Wiki realizzata nell’ambito di progetto universitario da Tommaso Curti, Giorgio D'Amelia e Angelica Furini. Insegnamento Informatica per la Produzione mediale - prof. Giorgio Poletti.
